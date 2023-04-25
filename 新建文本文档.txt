@@ -22,7 +22,7 @@
 	git log
 	
 	恢复版本
-	git reset –hard d0778f3e85dc1ae985c4f15214d70a2a807710e4
+	git reset –-hard 29d798ab175334848eb6bf5731dac3126d88b207
 	
 	查看所有分支
 	git branch -a
